@@ -1,3 +1,6 @@
+This is a fork of SimuCUBE-OpenSource-Firmware, that will be used on a force feedback simulator with a different MCU, motor and power driver. Right now i do not know how it works, so it will be a tinkering fork. Do not expect it to work until much work has been done. 
+
+
 # SimuCUBE-OpenSource-Firmware
 This is the repository for the opensource development of the SimuCUBE firmware. 
 
